@@ -1,0 +1,62 @@
+:root {
+  font-family: monospace;
+  font-size: 16px;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --text-color: #000000;
+    --background-color: #ffffff;
+    --accent-color: #d63600;
+    --accent-color-hover: #ff3e00;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: #ffffff;
+    --background-color: #000000;
+    --accent-color: #ff3e00;
+    --accent-color-hover: #d63600;
+  }
+}
+
+h1,
+h2,
+p,
+li {
+  color: var(--text-color);
+}
+
+p,
+li {
+  line-height: 1.5;
+}
+
+body {
+  background-color: var(--background-color);
+}
+
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent-color-hover);
+}
+
+.feather {
+  width: 24px;
+  height: 24px;
+  stroke: var(--accent-color);
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+  transition: stroke 0.1s;
+}
+
+.feather:hover {
+  stroke: var(--accent-color-hover);
+}
