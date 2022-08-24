@@ -39,8 +39,13 @@
 <section>
   <h2>Previously</h2>
   <ul>
-    <li>Software Development Engineer Intern at Amazon</li>
+    <li>Software Development Engineer Intern at Amazon Web Services</li>
+    <li>Software Development Engineer Intern at Amazon Ads</li>
     <li>Instructor at Coding with Kids</li>
+    <li>Developer at <a href="https://www.cornelldti.org/">Cornell DTI</a></li>
+    <ul>
+      <li><a href="https://github.com/cornell-dti/campus-density-ios">Flux iOS</a></li>
+    </ul>
   </ul>
 </section>
 

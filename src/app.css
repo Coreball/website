@@ -7,8 +7,8 @@
   :root {
     --text-color: #000000;
     --background-color: #ffffff;
-    --accent-color: #d63600;
-    --accent-color-hover: #ff3e00;
+    --accent-color: #815ed4;
+    --accent-color-hover: #9b70ff;
   }
 }
 
@@ -16,8 +16,8 @@
   :root {
     --text-color: #ffffff;
     --background-color: #000000;
-    --accent-color: #ff3e00;
-    --accent-color-hover: #d63600;
+    --accent-color: #9b70ff;
+    --accent-color-hover: #815ed4;
   }
 }
 
