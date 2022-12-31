@@ -23,29 +23,31 @@
 <section>
   <h2>Currently</h2>
   <ul>
-    <li>Student at Cornell University</li>
-    <li>
-      Technical Product Manager at <a href="https://www.cornelldti.org/">Cornell DTI</a>
-      <ul>
-        <li>
-          Check out <a href="https://github.com/cornell-dti/zing">Grouper</a> and
-          <a href="https://github.com/cornell-dti/zing-lsc">Zing LSC</a>!
-        </li>
-      </ul>
-    </li>
+    <li>MEng Student at Cornell University</li>
+    <li>Chillin' at Cornell DTI</li>
   </ul>
 </section>
 
 <section>
   <h2>Previously</h2>
   <ul>
+    <li>Graduated summa from Cornell University with a BS in CS :)</li>
+    <li>
+      Technical Product Manager at <a href="https://www.cornelldti.org/">Cornell DTI</a>
+      <ul>
+        <li><a href="https://github.com/cornell-dti/zing">Grouper</a></li>
+        <li><a href="https://github.com/cornell-dti/zing-lsc">Zing LSC</a></li>
+      </ul>
+    </li>
+    <li>
+      Developer at <a href="https://www.cornelldti.org/">Cornell DTI</a>
+      <ul>
+        <li><a href="https://github.com/cornell-dti/campus-density-ios">Flux iOS</a></li>
+      </ul>
+    </li>
     <li>Software Development Engineer Intern at Amazon Web Services</li>
     <li>Software Development Engineer Intern at Amazon Ads</li>
-    <li>Instructor at Coding with Kids</li>
-    <li>Developer at <a href="https://www.cornelldti.org/">Cornell DTI</a></li>
-    <ul>
-      <li><a href="https://github.com/cornell-dti/campus-density-ios">Flux iOS</a></li>
-    </ul>
+    <li>Instructor at Coding With Kids</li>
   </ul>
 </section>
 

@@ -11,7 +11,7 @@
   </main>
 
   <footer>
-    <p>Made in Ithaca, NY</p>
+    <p>Last updated in Denver, CO</p>
   </footer>
 </div>
 
