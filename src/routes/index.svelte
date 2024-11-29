@@ -18,20 +18,22 @@
   <a href="mailto:cl859@cornell.edu"><MailIcon title="Email cl859@cornell.edu" /></a>
 </div>
 
-<p>Hi, I'm Changyuan Lin, a computer science student at Cornell University.</p>
+<p>
+  Hi, I'm Changyuan Lin. I graduated from Cornell University in 2023 and am now a Software
+  Development Engineer at Amazon, working on Project Kuiper. 🛰️
+</p>
 
 <section>
   <h2>Currently</h2>
   <ul>
-    <li>MEng Student at Cornell University</li>
-    <li>Chillin' at Cornell DTI</li>
+    <li>Software Development Engineer at Amazon Project Kuiper</li>
   </ul>
 </section>
 
 <section>
   <h2>Previously</h2>
   <ul>
-    <li>Graduated summa from Cornell University with a BS in CS :)</li>
+    <li>Graduated summa cum laude from Cornell University with a BS and MEng in CS :)</li>
     <li>
       Technical Product Manager at <a href="https://www.cornelldti.org/">Cornell DTI</a>
       <ul>

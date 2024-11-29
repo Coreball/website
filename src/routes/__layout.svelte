@@ -11,7 +11,7 @@
   </main>
 
   <footer>
-    <p>Last updated in Denver, CO</p>
+    <p>Last updated in Seattle, WA</p>
   </footer>
 </div>
 
